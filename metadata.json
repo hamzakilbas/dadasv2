@@ -1,0 +1,6 @@
+{
+  "name": "Dadaş Tatlıcı - POS & Stok Sistemi",
+  "description": "Dadaş Tatlıcı masa yönetimi, ürün ve masa bazlı sipariş geçmişi ve Excel raporlama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

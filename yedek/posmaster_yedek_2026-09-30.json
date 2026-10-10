@@ -1,0 +1,250 @@
+{
+  "tables": [
+    {
+      "id": "gpgg4zcj2",
+      "seq": 1,
+      "name": "Masa 1"
+    },
+    {
+      "id": "rz0d76j4d",
+      "seq": 2,
+      "name": "Masa 2"
+    },
+    {
+      "id": "zhzgljwve",
+      "seq": 3,
+      "name": "Masa 3"
+    },
+    {
+      "id": "chjc62103",
+      "seq": 4,
+      "name": "Masa 4"
+    },
+    {
+      "id": "rowpzfjh0",
+      "seq": 5,
+      "name": "Masa 5"
+    },
+    {
+      "id": "m78t9ke4n",
+      "seq": 6,
+      "name": "Masa 6"
+    },
+    {
+      "id": "q4t2l30tz",
+      "seq": 7,
+      "name": "Masa 7"
+    },
+    {
+      "id": "ocvkszhff",
+      "seq": 8,
+      "name": "Masa 8"
+    },
+    {
+      "id": "lr09t7x1f",
+      "seq": 9,
+      "name": "Masa 9"
+    },
+    {
+      "id": "6iin3c06b",
+      "seq": 10,
+      "name": "Masa 10"
+    },
+    {
+      "id": "wv64ymmnm",
+      "seq": 11,
+      "name": "Masa 11"
+    },
+    {
+      "id": "a52ymjxl1",
+      "seq": 12,
+      "name": "Masa 12"
+    },
+    {
+      "id": "xh56vl5lo",
+      "seq": 13,
+      "name": "Masa 13"
+    },
+    {
+      "id": "ird7u8zzd",
+      "seq": 14,
+      "name": "Masa 14"
+    },
+    {
+      "id": "8k0ea3lfs",
+      "seq": 15,
+      "name": "Masa 15"
+    }
+  ],
+  "products": [
+    {
+      "id": "boryjds47",
+      "name": "çay",
+      "price": 50,
+      "img": "cay.jpg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "1u58exfbh",
+      "name": "Türk kahvesi",
+      "price": 120,
+      "img": "turk-kahvesi.jpg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "ml1524l1z",
+      "name": "su",
+      "price": 50,
+      "img": "erikli-su.jpg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "6ntw6rqjv",
+      "name": "soda",
+      "price": 90,
+      "img": "soda.jpg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "zuhx42f7l",
+      "name": "soğuk baklava",
+      "price": 280,
+      "img": "soguk-baklava-cikolatali.jpg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "mzf07apa9",
+      "name": "çilekli magnolya",
+      "price": 200,
+      "img": "cilekli-magnolya.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "v8ip18gg2",
+      "name": "fırın sütlaç",
+      "price": 200,
+      "img": "firin-sutlac.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "0aemi08wl",
+      "name": "fıstık özel 5 adet",
+      "price": 300,
+      "img": "fistik-ozel.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "ll9f2z3e5",
+      "name": "fıstıklı magnolya",
+      "price": 200,
+      "img": "fistikli-magnolya.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "3kg8cm7d5",
+      "name": "havuç dilimi adet",
+      "price": 350,
+      "img": "havuc-dilimi.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "b4vdoo22u",
+      "name": "kaymaklı kadayıf",
+      "price": 280,
+      "img": "kaymakli-kadayif.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "4ohvumcl0",
+      "name": "kazandibi",
+      "price": 200,
+      "img": "kazandibi.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "y7y7n5as7",
+      "name": "keşkül",
+      "price": 200,
+      "img": "keskul.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "3tle2yyi6",
+      "name": "profiterol",
+      "price": 200,
+      "img": "profiterol.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "ahd07xllr",
+      "name": "bol fıstıklı soğuk baklava 4 adet",
+      "price": 400,
+      "img": "soguk-baklava.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "ek8c2ovla",
+      "name": "supangle",
+      "price": 200,
+      "img": "supangle.jpeg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "y3j8lpi36",
+      "name": "türk kahvesi",
+      "price": 120,
+      "img": "turk-kahvesi.jpg",
+      "category": "İçecekler"
+    },
+    {
+      "id": "gq23wzjk7",
+      "name": "kuru baklava 3 adet",
+      "price": 350,
+      "img": "kuru-baklava.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "x83fwc64t",
+      "name": "yeşil midye 3 adet",
+      "price": 350,
+      "img": "yesil-midye.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "2qidkdboe",
+      "name": "şöbiyet 3 adet",
+      "price": 350,
+      "img": "sobiyet.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "t9ivsgw7k",
+      "name": "fıstık sarma 3 adet",
+      "price": 350,
+      "img": "fistik-sarma.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "9djl7uz5m",
+      "name": "burma kadayıf 3 adet",
+      "price": 300,
+      "img": "burma-kadayif.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "bdxsu2zi9",
+      "name": "fıstıklı baklava 4 adet",
+      "price": 300,
+      "img": "fistikli-baklava.jpeg",
+      "category": "Tatlılar"
+    },
+    {
+      "id": "7duaylwa9",
+      "name": "cevizli kaymaklı kadayıf",
+      "price": 250,
+      "img": "kaymakli-kadayif.jpeg",
+      "category": "Tatlılar"
+    }
+  ],
+  "orders": {}
+}
